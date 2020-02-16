@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Roboto+Slab&display=swap");
+@import url("compenents/container.css");
+@import url("compenents/avatar.css");
+@import url("compenents/btn-white.css");
+@import url("compenents/banner.css");
+@import url("compenents/card.css");
+
+body {
+	font-family: 'Roboto Slab', serif;
+	font-size: 18px;
+	margin: 0px;
+
+}
+
+h1,h2,h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+}
+
+a { text-decoration: none
+ }
